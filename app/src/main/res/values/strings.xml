@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">pixolus</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="pixometer">Pixometer</string>
+    <string name="login">Login</string>
+    <string name="mandatoryField">Mandatory Field</string>
+    <string name="invalidEmail">Invalid Email</string>
+    <string name="loggingIn">Logging in…</string>
+    <string name="someErrorOccurred">some error occurred</string>
+    <string name="meters">Meters</string>
+    <string name="loading">Loading…</string>
+    <string name="tryAgain">Try Again</string>
+    <string name="cancel">Cancel</string>
+    <string name="meter_id">Meter Id:</string>
+    <string name="noMetersFound">no meters found</string>
+    <string name="load_more">Load More</string>
+    <string name="noMoreMeters">no more meters</string>
+</resources>
